@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app_previsao_tempo/static/css/main.f809304b.css",
+    "main.js": "/app_previsao_tempo/static/js/main.ddfd75c0.js",
+    "static/js/787.d742de47.chunk.js": "/app_previsao_tempo/static/js/787.d742de47.chunk.js",
+    "index.html": "/app_previsao_tempo/index.html",
+    "main.f809304b.css.map": "/app_previsao_tempo/static/css/main.f809304b.css.map",
+    "main.ddfd75c0.js.map": "/app_previsao_tempo/static/js/main.ddfd75c0.js.map",
+    "787.d742de47.chunk.js.map": "/app_previsao_tempo/static/js/787.d742de47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f809304b.css",
+    "static/js/main.ddfd75c0.js"
+  ]
+}
